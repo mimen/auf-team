@@ -1,0 +1,8 @@
+<h1>{{member}}'s view</h1>
+
+{{#each selectedMemberViews as |view|}}
+    {{airtable-embed
+      name=view.name
+      id=view.id
+      tableID=view.tableID}}
+{{/each}}

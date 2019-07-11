@@ -7,6 +7,8 @@ const Router = EmberRouter.extend({
 });
 
 Router.map(function() {
+  this.route('views');
+  this.route('view', { path: '/views/:member' });
 });
 
 export default Router;
