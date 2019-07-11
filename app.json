@@ -1,0 +1,13 @@
+{
+    "buildpacks": [
+      { "url": "heroku/nodejs" },
+      { "url": "https://github.com/heroku/heroku-buildpack-ember-cli" },
+      { "url": "https://github.com/heroku/heroku-buildpack-static" }
+    ],
+    "env": {
+      "NPM_CONFIG_PRODUCTION": "false",
+      "NODE_ENV": "production"
+    },
+    "name": "auf-team",
+    "stack": "heroku-18"
+  }
