@@ -14,12 +14,12 @@ export default Controller.extend({
             {
                 name: "Responsibilities",
                 id: "shrHLCOXkJUBDjgMv",
-                tableID: ""
+                tableID: "tblcTZrU4meHWNcop/viwIpVlxjzHA3LY5j"
             },
             {
                 name: "Umbrella Sound",
                 id: "shrzxCJdi5B2aQIRg",
-                tableID: ""
+                tableID: "tblFQRRwKt4xqbFto/viwJMh9UFRQ8Jaa1t"
             },
             {
                 name: "Instagator Gigs",
@@ -118,6 +118,11 @@ export default Controller.extend({
                 name: "Event Planning View",
                 id: "shrkV5qugdmvBaYHe",
                 tableID: "tblFQRRwKt4xqbFto/viwdPVpO6rF0zAcdf"
+            },
+            {
+                name: "Staffing",
+                id: "shraYPWP4COOPjDGO",
+                tableID: "tblFQRRwKt4xqbFto/viwPOvWqEYMjI9XDd"
             }
         ],
         "johann": [
@@ -149,9 +154,9 @@ export default Controller.extend({
                 tableID: "tblFQRRwKt4xqbFto/viwPqsNScQjuur5Ts"
             },
             {
-                name: " Gigs",
-                id: "",
-                tableID: ""
+                name: "Sprout Gigs",
+                id: "shrDnZr5MBl4MzPON",
+                tableID: "tblFQRRwKt4xqbFto/viwGnMfXSNFw7s5ya"
             }
         ]
     },
